@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/新增資料夾.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/10832138.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
